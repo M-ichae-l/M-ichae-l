@@ -1,6 +1,6 @@
 ### Hi there, I'm Michael Zhang 👋
 
-## I'm a Software Engineer, AI/IoT/AIoT Developer!
+## I'm a Software Engineer, AI/IoT/AIoT Embedded Systems Developer!
 - 🔭 I’m currently as a software team leader working on development, maintenance and menagement of Realtek Ameba IoT opensource SDKs
   - [Ameba1 Standard SDK](https://github.com/ambiot/amb1_sdk), [AmebaD Standard SDK](https://github.com/ambiot/ambd_sdk)
   - [Ameba1 Arduino SDK](https://github.com/ambiot/amb1_arduino), [AmebaD Arduino SDK](https://github.com/ambiot/ambd_arduino), [AmebaPro2 Arduino SDK](https://github.com/ambiot/ambpro2_arduino)
