@@ -12,7 +12,7 @@
 <br />
 
 [![Mail Badge](https://img.shields.io/badge/-empero1991@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:empero1991@gmail.com)](mailto:empero1991@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Michael%20Zhang-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/michael-zhen-wu-zhang-839671b1/ "LinkedIn")
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Michael%20Zhang-blue?style=flat-square&logo=linkedin)](https://https://www.linkedin.com/in/michael-zhang-839671b1/ "LinkedIn")
 [![Facebook](https://img.shields.io/badge/Facebook-Michael%20Zhang-blue?style=flat-square&logo=Facebook)](https://www.facebook.com/zhenwu.zhang "Facebook")
 
 ---
