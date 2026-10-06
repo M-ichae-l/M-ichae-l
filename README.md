@@ -2,10 +2,9 @@
 
 ## I'm a Software Engineer, AI/IoT/AIoT Embedded Systems Developer!
 - 🔭 I’m currently as a software team leader working on development, maintenance and menagement of Realtek Ameba IoT opensource SDKs
-  - [Ameba1 Standard SDK](https://github.com/ambiot/amb1_sdk), [AmebaD Standard SDK](https://github.com/ambiot/ambd_sdk)
-  - [Ameba1 Arduino SDK](https://github.com/ambiot/amb1_arduino), [AmebaD Arduino SDK](https://github.com/ambiot/ambd_arduino), [AmebaPro2 Arduino SDK](https://github.com/ambiot/ambpro2_arduino)
-  - [AmebaD MicroPython SDK](https://github.com/ambiot/ambd_micropython)
-  - [Ameba Read the docs](https://github.com/ambiot/documents)
+  - [Ameba1 Freertos SDK](https://github.com/Ameba-AIoT/ameba-rtos-1), [AmebaD Freertos SDK](https://github.com/Ameba-AIoT/ameba-rtos-d), [AmebaPro2 Freertos SDK](https://github.com/Ameba-AIoT/ameba-rtos-pro2)
+  - [Ameba1 Arduino SDK](https://github.com/Ameba-AIoT/ameba-arduino-1), [AmebaD Arduino SDK](https://github.com/Ameba-AIoT/ameba-arduino-d), [AmebaPro2 Arduino SDK](https://github.com/Ameba-AIoT/ameba-arduino-pro2)
+  - [Documents](https://github.com/search?q=topic%3Adocuments+org%3AAmeba-AIoT&type=Repositories)
 - 🌱 I’m currently learning AIoT/AI modeling (Yolo, mobilefacenet) and CICD pipelines/GitHub Action(workflows)
 - ⚡ Fun fact: Although I am a SW people, I have a very good skills at soldering. 
 
